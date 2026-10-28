@@ -8,7 +8,7 @@ interface KartuProfilProps {
 }
 
 // 2. Terapkan tipe data tersebut pada parameter fungsi
-export default function kartuProfil({
+export default function KartuProfil({
   nama,
   npm,
   kelas,
